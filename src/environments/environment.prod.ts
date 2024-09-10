@@ -5,7 +5,7 @@ export const environment = {
       url: 'https://id.twitch.tv/oauth2/authorize'
     },
     url: 'https://api.twitch.tv/v5/',
-    clientId: 'zu6i9crsye9l7kwopfjhbmu8nt9q3y',
+    clientId: '',
     twitchBadges: {
       url: 'https://badges.twitch.tv/v1/badges/'
     },
